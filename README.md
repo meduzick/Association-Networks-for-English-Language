@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo contains multiple machine learning models. The task to automatically construct association networks for English language. 
+This repo contains multiple machine learning models. The task is to automatically construct association networks for English language. 
 The main idea is to directly learn conditional probability distribution via regression technics, while employing the perks of recent advances in machine learning and neural networks. 
 
 ## Data
